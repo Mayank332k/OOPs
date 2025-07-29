@@ -16,7 +16,7 @@ public class change {
     public static void main(String[] args) {
         
        // Object banate waqt hi values pass ki (parameterized constructor use)
-       legend lg = new legend("me sabka papa" , 18, 99.99f);
+       legend lg = new legend("Mayank OP" , 18, 99.99f);
 
        // Values print ki
        System.out.println(" Name : " + lg.name);  
